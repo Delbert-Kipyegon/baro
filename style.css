@@ -1,0 +1,8 @@
+#chat-box{
+    border: 1px solid black;
+    height: 50vh;
+}
+
+#chats{
+    background-color: gray;
+}
